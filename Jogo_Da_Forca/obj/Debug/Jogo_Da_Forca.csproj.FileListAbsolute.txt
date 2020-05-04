@@ -1,8 +1,0 @@
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\bin\Debug\Jogo_Da_Forca.exe.config
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\bin\Debug\Jogo_Da_Forca.exe
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\bin\Debug\Jogo_Da_Forca.pdb
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.Form2.resources
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.Properties.Resources.resources
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.csproj.GenerateResource.cache
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.exe
-C:\Users\João William\source\repos\Jogo_Da_Forca\Jogo_Da_Forca\obj\Debug\Jogo_Da_Forca.pdb
